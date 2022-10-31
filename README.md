@@ -8,6 +8,7 @@
 ![AZUREDEVOPS](https://img.shields.io/badge/-AZUREDEVOPS-090909?style=for-the-badge&logo=AZUREDEVOPS&logoColor=00BFFF)
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=GOOGLECHROME&logoColor=FF0000)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=POSTMAN&logoColor=D2691E)
+![SOAPUI](https://img.shields.io/badge/-SOAPUI-090909?style=for-the-badge&logo=SOAPUI&logoColor=FFFF00)
 
 Testing Documentation
 
