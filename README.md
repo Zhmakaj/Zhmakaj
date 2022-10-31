@@ -24,4 +24,5 @@ Testing Documentation
 ### Follow Me
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0000FF)](https://vk.com/funfi)
 [![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/Zhmakaj)
-[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)]()
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zhmakaj&show_icons=true&theme=radical)
