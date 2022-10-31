@@ -12,6 +12,8 @@
 
 ![SOAPUI](https://img.shields.io/badge/-SOAPUI-090909?style=for-the-badge&logo=SOAPUI&logoColor=FFFF00)
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=CHARLESPROXY&logoColor=E0FFFF)
+![FIDDLER](https://img.shields.io/badge/-FIDDLER-090909?style=for-the-badge&logo=FIDDLER&logoColor=00FF00)
+
 Testing Documentation
 
 Follow Me
