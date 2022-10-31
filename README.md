@@ -2,6 +2,9 @@
 
 ## I'm a student of the course "Functional software testing"
 
+### My CV
+[Link to my CV](https://drive.google.com/drive/folders/1x8EZ1tNTv2mjm9HA-eW1gVkU5XOSnjvG?usp=share_link)
+
 ### Language and Tools
 ![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=008B8B)
 ![JIRA](https://img.shields.io/badge/-JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=0000CD)
@@ -19,6 +22,6 @@
 Testing Documentation
 
 ### Follow Me
-![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0000FF)
-![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)
-![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)
+[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0000FF)](https://vk.com/funfi)
+[![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)](https://t.me/Zhmakaj)
+[![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)]()
