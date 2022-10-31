@@ -9,6 +9,7 @@
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-090909?style=for-the-badge&logo=GOOGLECHROME&logoColor=FF0000)
 ![POSTMAN](https://img.shields.io/badge/-POSTMAN-090909?style=for-the-badge&logo=POSTMAN&logoColor=D2691E)
 ![SWAGGER](https://img.shields.io/badge/-SWAGGER-090909?style=for-the-badge&logo=SWAGGER&logoColor=00FF00)
+![MYSQL](https://img.shields.io/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=FF8C00)
 
 ![SOAPUI](https://img.shields.io/badge/-SOAPUI-090909?style=for-the-badge&logo=SOAPUI&logoColor=FFFF00)
 ![CHARLESPROXY](https://img.shields.io/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=CHARLESPROXY&logoColor=E0FFFF)
