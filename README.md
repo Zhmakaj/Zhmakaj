@@ -21,3 +21,4 @@ Testing Documentation
 ### Follow Me
 ![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0000FF)
 ![TELEGRAM](https://img.shields.io/badge/-TELEGRAM-090909?style=for-the-badge&logo=TELEGRAM)
+![INSTAGRAM](https://img.shields.io/badge/-INSTAGRAM-090909?style=for-the-badge&logo=INSTAGRAM)
