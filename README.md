@@ -17,11 +17,11 @@
 ![FIDDLER](https://img.shields.io/badge/-FIDDLER-090909?style=for-the-badge&logo=FIDDLER&logoColor=00FF00)
 
 ### Testing Documentation
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Checklists](https://github.com/Zhmakaj/Checklists.git)
+- [Test-Suites and Test-Cases](https://github.com/Zhmakaj/Test-Suites-and-Test-Cases)
+- [Bug-Reports](https://github.com/Zhmakaj/Bug-Reports)
+- [SQL Queries](https://github.com/Zhmakaj/SQL-Queries.git)
+- [Postman Collections](https://github.com/Zhmakaj/Postman-Collections)
 
 ### Follow Me
 [![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=0000FF)](https://vk.com/funfi)
